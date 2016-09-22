@@ -1,0 +1,32 @@
+{
+  "name": "webpack-babel-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.babel.js",
+  "bin": {
+    "webpack-babel-practice": "6e1599597c4fe0072876.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.14.0",
+    "gulp": "^3.9.1",
+    "gulp-run": "^1.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scorpio750/webpack-babel-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scorpio750/webpack-babel-practice/issues"
+  },
+  "homepage": "https://github.com/Scorpio750/webpack-babel-practice#readme"
+}
